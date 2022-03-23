@@ -1,0 +1,1 @@
+PowerShell -File C:\Windows\LockScript.ps1
