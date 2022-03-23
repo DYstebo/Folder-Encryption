@@ -1,5 +1,5 @@
 # Folder-Encryption
-This batch file and PowerShell script combo allows you to encrypt a folder into a zipped file that is password protected, and decrypt with the 'Unlock' option automatically with the batch file.
+This batch file and PowerShell script combo allows you to encrypt and decrypt a password protected folder/zipped file at will.
 <br><br>
 To prepare for use, open PowerShell as Administrator and enter "Install-Module -Name 7Zip4Powershell".<br><br>
 Download either the Dynamic or Static PowerShell script and batch script. <br>
