@@ -1,0 +1,1 @@
+PowerShell -File DynamicLock.ps1
