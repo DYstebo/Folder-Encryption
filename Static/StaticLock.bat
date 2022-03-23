@@ -1,1 +1,1 @@
-PowerShell -File C:\Windows\LockScript.ps1
+PowerShell -File C:\Windows\StaticScript.ps1
